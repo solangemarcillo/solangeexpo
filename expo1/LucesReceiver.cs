@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace expo1
 {
-	class LucesReceiver
+	public abstract class LucesReceiver
 	{
 		protected bool encendidas;
 		protected int distanciaAlumbrado;
